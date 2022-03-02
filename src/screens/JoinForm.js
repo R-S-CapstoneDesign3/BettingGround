@@ -10,9 +10,9 @@ const Container = styled.View`
 `
 
 const FixToText = styled.Text`
-     fontSize:15;
-     marginTop:10;
-     marginLeft:50;
+     fontSize: 15px;
+     marginTop: 10px;
+     marginLeft: 50px;
 `;
 
 
